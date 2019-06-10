@@ -6,3 +6,6 @@
 #### Tips:
 需要安装requests、BeautifulSoup4库，或者直接：
 `pip install -r requirements.txt`
+  
+###### 微信公众号：theoldcat
+###### 个人博客：https://oldcat.xyz
