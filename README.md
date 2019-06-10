@@ -4,7 +4,7 @@
 2. 利用you-get工具进行下载
 
 #### Tips:
-需要安装requests、BeautifulSoup4库，或者直接：
+需要安装requests、BeautifulSoup4库以及you-get，或者直接：
 `pip install -r requirements.txt`
   
 ###### 微信公众号：theoldcat
