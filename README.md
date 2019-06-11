@@ -5,7 +5,8 @@
 
 #### Tips:
 需要安装requests、BeautifulSoup4库以及you-get，或者直接：
-`pip install -r requirements.txt`
-  
+`pip install -r requirements.txt`  
+视频演示链接：https://b23.tv/av55224540  
+
 ###### 微信公众号：theoldcat
 ###### 个人博客：https://oldcat.xyz
