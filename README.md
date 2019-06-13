@@ -8,5 +8,5 @@
 `pip install -r requirements.txt`  
 视频演示链接：https://b23.tv/av55224540  
 
-###### 微信公众号：theoldcat
-###### 个人博客：https://oldcat.xyz
+###### 微信公众号：teamssix
+###### 个人博客：www.teamssix.com
